@@ -18,6 +18,3 @@ markdown
 - 해당 방식은 VPN 트래픽 제어, 보안 테스트, 문제 재현에 유용함.
 
 ---
-
-## 증빙 스크린샷
-![VPN Result Table Screenshot](images/vpn_results.jpg)
