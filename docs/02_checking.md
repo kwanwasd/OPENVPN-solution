@@ -1,5 +1,5 @@
 ### **02_allowing.md**
-```markdown
+markdown
 # 2. VPN 허용 과정 (Allowing)
 
 ## 목적
