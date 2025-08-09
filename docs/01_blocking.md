@@ -31,9 +31,6 @@ vbnet
 편집
 TLS Error: TLS key negotiation failed to occur within 60 seconds
 Inactivity timeout (--ping-restart)
-증빙 스크린샷
-![VPN 차단 스크린샷](https://github.com/kwanwasd/OPENVPN-solution/raw/a435a05ded3a2cfb2793408637df510c0f9fee0f/docs/images/vpn%20%EB%A7%89%EC%9D%8C%202.jpg)
-
 
 3) 빠른 원복 명령
 bash
