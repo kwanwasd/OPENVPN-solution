@@ -14,7 +14,7 @@ bash
 편집
 sudo ufw status numbered
 정상 로그 예시
-![image](./images/연결성공.jpg)
+![image](./images/연결성공.png)
 
 mathematica
 복사
