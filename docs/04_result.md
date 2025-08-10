@@ -4,14 +4,16 @@ markdown
 
 ## 요약
 - **차단 상태:** VPN 접속 실패 (TLS Error 발생)
+![image](./images/vpn안됨.png)
+
 - **허용 상태:** VPN 접속 성공 (정상 연결)
+![image](./images/연결성공.png)
 
 | 상태   | 결과            | 로그 예시                                  |
 |--------|----------------|---------------------------------------------|
 | 차단   | 실패           | TLS Error: TLS key negotiation failed...   |
 | 허용   | 성공           | Initialization Sequence Completed          |
 
-![image](./images/연결성공.png)
 ---
 
 ## 결론
