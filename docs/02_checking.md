@@ -6,7 +6,7 @@ markdown
 차단된 VPN 포트를 다시 허용하여 정상 접속이 가능하도록 한다.
 
 ## 명령어
-```bash
+bash
 sudo ufw allow 1194/udp
 상태 확인
 bash
@@ -14,6 +14,7 @@ bash
 편집
 sudo ufw status numbered
 정상 로그 예시
+![image](./images/연결성공.jpg)
 
 mathematica
 복사
