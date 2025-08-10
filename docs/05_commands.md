@@ -6,7 +6,7 @@ markdown
 
 ## 1) 포트 차단이 안 되는 경우
 - UFW가 활성화되어 있는지 확인
-```bash
+bash
 sudo ufw status
 sudo ufw enable
 2) 방화벽 외 다른 보안 소프트웨어 확인
