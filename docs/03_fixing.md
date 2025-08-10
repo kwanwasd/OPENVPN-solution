@@ -9,7 +9,7 @@ markdown
 ---
 
 ### 1) 차단 상태에서 접속 시도
-```bash
+bash
 sudo openvpn --config client.ovpn
 예상 결과: 접속 실패 (TLS Error)
 
@@ -21,9 +21,9 @@ sudo openvpn --config client.ovpn
 예상 결과: 접속 성공 (Initialization Sequence Completed 출력)
 
 차단 상태:
-
+[image](./images/vpn안됨.png)
 허용 상태:
-
+[image](./images/연결성공.png)
 yaml
 복사
 편집
