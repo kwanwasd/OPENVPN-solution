@@ -17,7 +17,7 @@ UFW(Uncomplicated Firewall)로 VPN 포트(UDP 1194) 차단
 ---
 
 ### 1) 차단 명령
-```bash
+bash
 sudo ufw deny 1194/udp
 2) 상태 확인
 bash
@@ -31,9 +31,9 @@ vbnet
 편집
 TLS Error: TLS key negotiation failed to occur within 60 seconds
 Inactivity timeout (--ping-restart)
-```
+
 ![image](./images/vpn 막음 2.jpg)
-```
+
 3) 빠른 원복 명령
 bash
 복사
@@ -42,5 +42,5 @@ sudo ufw delete deny 1194/udp || true
 yaml
 복사
 편집
-```
+
 ---
