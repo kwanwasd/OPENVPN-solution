@@ -11,7 +11,7 @@ markdown
 | 차단   | 실패           | TLS Error: TLS key negotiation failed...   |
 | 허용   | 성공           | Initialization Sequence Completed          |
 
-[image](./images/연결성공.png)
+![image](./images/연결성공.png)
 ---
 
 ## 결론
