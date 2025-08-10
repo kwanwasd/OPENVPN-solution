@@ -22,11 +22,11 @@ sudo openvpn --config client.ovpn
 
 차단 상태:
 
-[image](./images/vpn안됨.png)
+![image](./images/vpn안됨.png)
 
 허용 상태:
 
-[image](./images/연결성공.png)
+![image](./images/연결성공.png)
 
 yaml
 복사
